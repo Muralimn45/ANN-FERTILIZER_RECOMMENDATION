@@ -53,3 +53,4 @@ Dosage: The quantity of each fertilizer needed, often in kilograms per hectare.
 The final recommendation is then formatted into a clear, concise output that is displayed back to the user on the webpage. This process provides a quick, data-driven, and personalized solution for managing soil fertility. The system is highly adaptable as the ANN can be retrained with new data to improve its accuracy over time
 #OUTPUT :
 <img width="1377" height="842" alt="Image" src="https://github.com/user-attachments/assets/a3bed4a2-d00a-4ebf-9637-c17091b3a33c" />
+<img width="1384" height="503" alt="Image" src="https://github.com/user-attachments/assets/14ba21f2-b25a-4ec7-8079-617a904016fd" />
